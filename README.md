@@ -9,9 +9,7 @@ This Android application allows users to create password-protected zip files fro
 - Save the zip file in the parent directory of the selected directory
 - Simple and easy-to-use interface
 
-## Screenshots
-
-*Include screenshots of your app here if possible.*
+ 
 
 ## Getting Started
 
